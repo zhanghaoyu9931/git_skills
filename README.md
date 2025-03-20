@@ -7,4 +7,4 @@
 * Template for commits: "message [user-date]".
 * Mainly submit from Dell R940 (Zhu lab), with --user=hauserzhang_R940, --email=
 
-hauserzhang
+hauserzhang@pku.edu.cn
